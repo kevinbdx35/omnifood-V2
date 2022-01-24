@@ -39,7 +39,7 @@ No specific prerequisites
 I just use a local server to develop this
 
 ### Screen Capture
-![Screen Capture](![Screen Capture](https://github.com/kevinbdx35/omnifood-V2/blob/main/screen-capture.png?raw=true))
+![Screen Capture](https://github.com/kevinbdx35/omnifood-V2/blob/main/screen-capture.png?raw=true))
 
 ## Api Reference
 
